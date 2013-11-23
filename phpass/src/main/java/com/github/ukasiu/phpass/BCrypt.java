@@ -1,4 +1,4 @@
-package com.github.wolf480pl.phpass;
+package com.github.ukasiu.phpass;
 
 //Copyright (c) 2006 Damien Miller <djm@mindrot.org>
 //
